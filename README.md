@@ -1,2 +1,3 @@
 # FindHome
-FindHome is a website designed using HTML , CSS , BOOTSTRAP 4 , NODE.JS , MONGODB , JAVASCRIPT
+FindHome is a resposive real estate website.
+Tech stack used for this is : HTML , CSS , JAVASCRIP , BOOTSTRAP 5
